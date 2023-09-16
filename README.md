@@ -9,11 +9,11 @@
 > 1. ##### Regularly updated and improved the frontend to enhance usability and stay up-to-date with the latest app development trends.
 
 ### -> credits :)
-> 1. #####  Kotlin Documentation :
-##### https://kotlinlang.org/docs/basic-syntax.html
+1. #####  Kotlin Documentation :
+> ##### https://kotlinlang.org/docs/basic-syntax.html
 
-> 2. #####  Materials(Tools kit) :
-##### https://www.youtube.com/
+2. #####  Materials(Tools kit) :
+> ##### https://www.youtube.com/
 
 
 ### -> Contact :)
